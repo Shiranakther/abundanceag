@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 
 export default function VideoPage() {
   // Replace this YouTube video ID with your actual video ID when you have it
-  const youtubeVideoId = "dQw4w9WgXcQ" // Placeholder - replace with your actual YouTube video ID
+  const youtubeVideoId = "Rd1HDWDEmSQ" // Placeholder - replace with your actual YouTube video ID
 
   return (
     <div className="min-h-screen bg-white pt-20">
