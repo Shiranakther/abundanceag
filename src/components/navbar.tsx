@@ -102,8 +102,8 @@ export default function Navbar() {
             <Image
               src="/images/Logo-1.png"
               alt="Abundance AG Logo"
-              width={50}
-              height={50}
+              width={65}
+              height={65}
               className="transition-all duration-300"
             />
           </Link>
